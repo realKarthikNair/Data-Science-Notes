@@ -1,4 +1,7 @@
 # Learning-Numpy
+
+**Github in some pages is rendering the PDF file weirdly, Just download and open either of them on you Computer externally to solve that!**
+
 Sharing the notes I'm making while learning Numpy :-)
 
 I'll be updating the Jupyter Notebook as well as the .py and PDF exports of it here while i progress through the same
