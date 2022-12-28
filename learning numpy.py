@@ -32,7 +32,7 @@
 # memory. The exception: one can have arrays of (Python, including NumPy) objects, thereby allowing for array 
 # of different sized elements
 
-# <font color=maroon>The NumPy package integrates C, C++, and Fortran codes in Python.<br>
+# <font color=maroon>The NumPy package integrates C, C++, and Fortran codes in Python.  
 # These programming languages have very little execution time compared to Python</font>
 
 # ### <font color=blue>Importing the NumPy library</font>
@@ -202,7 +202,7 @@ scalar_array
 
 
 # ### <font color=brown>Note</font>
-# <font color=purple>For a zero dimensional array:</font><br>
+# <font color=purple>For a zero dimensional array:</font>  
 # <font color=maroon>
 # `print(array1[0]) #results in an error`
 # - Trying to access the value in a 0D array using index results in an error</font>  
@@ -349,9 +349,7 @@ array6.shape
 # • the second-to-last is printed from top to bottom,
 # • the rest are also printed from top to bottom, with each slice separated from the next by an empty line.
 
-# <div>
-# <img src="demo.jpeg" width="400"/>
-# </div>
+# ![img](demo.jpeg)
 
 # <font color=maroon>One-dimensional arrays are then printed as rows, bidimensionals as matrices and tridimensionals as lists of matrices</font>
 

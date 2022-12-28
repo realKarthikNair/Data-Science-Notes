@@ -4,7 +4,7 @@
 
 Sharing the notes I'm making while learning Numpy :-)
 
-[Click here](https://github.com/realKarthikNair/Learning-Numpy/raw/main/notes%20(PDF)/learning%20numpy.pdf) to download the latest notes in PDF 
+[Click here](https://github.com/realKarthikNair/Learning-Numpy/raw/main/learning%20numpy.pdf) to download the latest notes in PDF 
 
 I'll be updating the Jupyter Notebook as well as the .py and PDF exports of it here while i progress through the same
 
