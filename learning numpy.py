@@ -204,7 +204,7 @@ scalar_array
 # ### <font color=brown>Note</font>
 # <font color=purple>For a zero dimensional array:</font>  
 # <font color=maroon>
-# `print(array1[0]) #results in an error`
+# `print(array1[0]) #results in an error`  
 # - Trying to access the value in a 0D array using index results in an error</font>  
 # reason : 0D ndarrays are considered scalars
 # 
